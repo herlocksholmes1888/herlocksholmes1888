@@ -1,16 +1,11 @@
 <h2 align="left">Heyyy 👋! What's up?</h2>
 
 ### About me
-My name is Luisa Lopes. I'm a jack-of-all-trades of technology. If you don't find me on my computer, try looking for me in the nearest library 📚
+My name is Luisa Lopes (she/her). I'm a jack-of-all-trades of technology. If you don't find me on my computer, try looking for me in the nearest library 📚<br>
+I'm currently working on [A Geek's Burrow](https://github.com/herlocksholmes1888/A-Geeks-Burrow), with the intention of hosting it on Vercel and turning it into my personal blog.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=herlocksholmes1888&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=herlocksholmes1888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="left">
+### Most used technologies
+<div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
@@ -21,8 +16,7 @@ My name is Luisa Lopes. I'm a jack-of-all-trades of technology. If you don't fin
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 </div>
 
-<br>
-
+### Languages
   * Eu falo português 🇧🇷 (Native)
   * I speak English 🇺🇸 (Fluent)
   * Je parle français 🇫🇷 (Advanced)
@@ -32,9 +26,10 @@ My name is Luisa Lopes. I'm a jack-of-all-trades of technology. If you don't fin
 
 <br>
 
+### Contact me!
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="mailto:luisafrugoli11@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://discord.com/users/476894968888295474"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://br.linkedin.com/in/luisa-frugoli-valente-lopes-b5b533231"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
