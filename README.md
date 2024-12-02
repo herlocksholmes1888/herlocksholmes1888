@@ -30,6 +30,6 @@ I'm currently working on [A Geek's Burrow](https://github.com/herlocksholmes1888
 <div align="left">
   <a href="mailto:luisafrugoli11@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://discord.com/users/476894968888295474"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://br.linkedin.com/in/luisa-frugoli-valente-lopes-b5b533231"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
