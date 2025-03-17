@@ -2,7 +2,7 @@
 
 ### About me
 My name is Luisa Lopes (she/her). I'm a jack-of-all-trades of technology. If you don't find me on my computer, try looking for me in the nearest library 📚<br>
-I'm currently working on [A Geek's Burrow](https://github.com/herlocksholmes1888/A-Geeks-Burrow), with the intention of hosting it on Vercel and turning it into my personal blog.
+I'm currently too focused on my internship and my studies to have time for personal projects. I intend on starting a Sherlock Holmes themed one on the second semester of 2025, however.
 
 ### Most used technologies
 <div align="center">
