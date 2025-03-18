@@ -22,7 +22,6 @@ I'm currently too focused on my internship and my studies to have time for perso
   * Je parle français 🇫🇷 (Advanced)
   * Ich spreche Deutsch 🇩🇪 (Advanced)
   * Yo hablo español 🇲🇽 (Intermediate)
-  * Μαθαίνω ελληνικά 🇬🇷 (Beginner)
 
 <br>
 
