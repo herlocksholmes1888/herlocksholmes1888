@@ -2,7 +2,7 @@
 
 ### About me
 My name is Luisa Lopes (she/her). I'm a jack-of-all-trades of technology. If you don't find me on my computer, try looking for me in the nearest library 📚<br>
-I'm currently too focused on my internship and my studies to have time for personal projects. I intend on starting a Sherlock Holmes themed one on the second semester of 2025, however.
+I'm currently learning how to manage my work/university/personal routine, so I've been figuring out how to develop [The Science of Deduction](https://github.com/herlocksholmes1888/The-Science-of-Deduction) in my free time. It hasn't been easy 😓
 
 ### Most used technologies
 <div align="center">
