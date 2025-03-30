@@ -2,7 +2,7 @@
 
 ### About me
 My name is Luisa Lopes (she/her). I'm a jack-of-all-trades of technology. If you don't find me on my computer, try looking for me in the nearest library 📚<br>
-I'm currently learning how to manage my work/university/personal routine, so I've been figuring out how to develop [The Science of Deduction](https://github.com/herlocksholmes1888/The-Science-of-Deduction) in my free time. I'm also involved in making a [Discord bot](https://github.com/Orange-Juice-Tech/InfOranger-Bot-Oficial-da-Orange/tree/develop/src) for a programming community I am part of. Somehow, I manage to do both while working and studying.
+I'm currently figuring out how to develop [The Science of Deduction](https://github.com/herlocksholmes1888/The-Science-of-Deduction) in my free time. I'm also involved in making a [Discord bot](https://github.com/Orange-Juice-Tech/InfOranger-Bot-Oficial-da-Orange/tree/develop/src) for a programming community I am part of. Somehow, I manage to do both while working and studying.
 
 ### Most used technologies
 <div align="center">
