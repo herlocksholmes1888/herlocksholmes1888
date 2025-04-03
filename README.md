@@ -17,11 +17,11 @@ I'm currently figuring out how to develop [The Science of Deduction](https://git
 </div>
 
 ### Languages
-  * Eu falo português 🇧🇷 (Native)
-  * I speak English 🇺🇸 (Fluent)
-  * Je parle français 🇫🇷 (Advanced)
-  * Ich spreche Deutsch 🇩🇪 (Advanced)
-  * Yo hablo español 🇲🇽 (Intermediate)
+  * Eu falo português (Native)
+  * I speak English (Fluent)
+  * Je parle français (Advanced)
+  * Ich spreche Deutsch (Advanced)
+  * Yo hablo español (Intermediate)
 
 <br>
 
